@@ -1,0 +1,6 @@
+{
+  "name": "RITA - Galicia Production Services",
+  "description": "Landing page de alta conversión para RITA Galicia Production Services. Servicios audiovisuales integrales, localizaciones, permisos y fixer en Galicia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
